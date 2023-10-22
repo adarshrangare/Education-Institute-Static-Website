@@ -404,7 +404,7 @@ h3{
     margin: 100px auto;
     text-align: center;
     padding: 60px;
-    background-image:  linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/EducationWebsite/Assets/Images/banner2.jpg);
+    background-image:  linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(/Assets/Images/banner2.jpg);
     background-position: center;
     border-radius: 10px;
 
